@@ -5,7 +5,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
 
 ### About Me:
-- 🌱 Building scalable SaaS as **Founding Engineer @ MarkupX**
 - 🚀 Fullstack developer
 - 🎓 Computer Science Engineering Undergrad @ DTU 
 - 📫 Connect: **[LinkedIn](https://www.linkedin.com/in/namantulsyan)**
